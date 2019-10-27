@@ -1,0 +1,11 @@
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SpecialPalindormeAgain\SpecialPalindormeAgain\bin\Debug\netcoreapp2.2\SpecialPalindormeAgain.deps.json
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SpecialPalindormeAgain\SpecialPalindormeAgain\bin\Debug\netcoreapp2.2\SpecialPalindormeAgain.runtimeconfig.json
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SpecialPalindormeAgain\SpecialPalindormeAgain\bin\Debug\netcoreapp2.2\SpecialPalindormeAgain.runtimeconfig.dev.json
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SpecialPalindormeAgain\SpecialPalindormeAgain\bin\Debug\netcoreapp2.2\SpecialPalindormeAgain.dll
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SpecialPalindormeAgain\SpecialPalindormeAgain\bin\Debug\netcoreapp2.2\SpecialPalindormeAgain.pdb
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SpecialPalindormeAgain\SpecialPalindormeAgain\obj\Debug\netcoreapp2.2\SpecialPalindormeAgain.csprojAssemblyReference.cache
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SpecialPalindormeAgain\SpecialPalindormeAgain\obj\Debug\netcoreapp2.2\SpecialPalindormeAgain.csproj.CoreCompileInputs.cache
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SpecialPalindormeAgain\SpecialPalindormeAgain\obj\Debug\netcoreapp2.2\SpecialPalindormeAgain.AssemblyInfoInputs.cache
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SpecialPalindormeAgain\SpecialPalindormeAgain\obj\Debug\netcoreapp2.2\SpecialPalindormeAgain.AssemblyInfo.cs
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SpecialPalindormeAgain\SpecialPalindormeAgain\obj\Debug\netcoreapp2.2\SpecialPalindormeAgain.dll
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SpecialPalindormeAgain\SpecialPalindormeAgain\obj\Debug\netcoreapp2.2\SpecialPalindormeAgain.pdb

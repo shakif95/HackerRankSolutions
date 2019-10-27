@@ -1,0 +1,11 @@
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SherlockAndAnagrams\SherlockAndAnagrams\bin\Debug\netcoreapp2.2\SherlockAndAnagrams.deps.json
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SherlockAndAnagrams\SherlockAndAnagrams\bin\Debug\netcoreapp2.2\SherlockAndAnagrams.runtimeconfig.json
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SherlockAndAnagrams\SherlockAndAnagrams\bin\Debug\netcoreapp2.2\SherlockAndAnagrams.runtimeconfig.dev.json
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SherlockAndAnagrams\SherlockAndAnagrams\bin\Debug\netcoreapp2.2\SherlockAndAnagrams.dll
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SherlockAndAnagrams\SherlockAndAnagrams\bin\Debug\netcoreapp2.2\SherlockAndAnagrams.pdb
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SherlockAndAnagrams\SherlockAndAnagrams\obj\Debug\netcoreapp2.2\SherlockAndAnagrams.csprojAssemblyReference.cache
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SherlockAndAnagrams\SherlockAndAnagrams\obj\Debug\netcoreapp2.2\SherlockAndAnagrams.csproj.CoreCompileInputs.cache
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SherlockAndAnagrams\SherlockAndAnagrams\obj\Debug\netcoreapp2.2\SherlockAndAnagrams.AssemblyInfoInputs.cache
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SherlockAndAnagrams\SherlockAndAnagrams\obj\Debug\netcoreapp2.2\SherlockAndAnagrams.AssemblyInfo.cs
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SherlockAndAnagrams\SherlockAndAnagrams\obj\Debug\netcoreapp2.2\SherlockAndAnagrams.dll
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\SherlockAndAnagrams\SherlockAndAnagrams\obj\Debug\netcoreapp2.2\SherlockAndAnagrams.pdb
