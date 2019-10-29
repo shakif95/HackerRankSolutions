@@ -1,0 +1,11 @@
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\CountTriplets\CountTriplets\bin\Debug\netcoreapp2.2\CountTriplets.deps.json
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\CountTriplets\CountTriplets\bin\Debug\netcoreapp2.2\CountTriplets.runtimeconfig.json
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\CountTriplets\CountTriplets\bin\Debug\netcoreapp2.2\CountTriplets.runtimeconfig.dev.json
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\CountTriplets\CountTriplets\bin\Debug\netcoreapp2.2\CountTriplets.dll
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\CountTriplets\CountTriplets\bin\Debug\netcoreapp2.2\CountTriplets.pdb
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\CountTriplets\CountTriplets\obj\Debug\netcoreapp2.2\CountTriplets.csprojAssemblyReference.cache
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\CountTriplets\CountTriplets\obj\Debug\netcoreapp2.2\CountTriplets.csproj.CoreCompileInputs.cache
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\CountTriplets\CountTriplets\obj\Debug\netcoreapp2.2\CountTriplets.AssemblyInfoInputs.cache
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\CountTriplets\CountTriplets\obj\Debug\netcoreapp2.2\CountTriplets.AssemblyInfo.cs
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\CountTriplets\CountTriplets\obj\Debug\netcoreapp2.2\CountTriplets.dll
+C:\AspCoreWorkSpace\Hackerrank\InterviewPreps\CountTriplets\CountTriplets\obj\Debug\netcoreapp2.2\CountTriplets.pdb
