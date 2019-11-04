@@ -14,23 +14,44 @@ namespace CountTriplets
     {
         static long countTriplets(List<long> arr, long r)
         {
-            Dictionary<long, long> tracks = new Dictionary<long, long>();
-            
-            foreach (long item in arr)
+            Dictionary<long, long> Counts = new Dictionary<long, long>();
+            Dictionary<long, long> Probables = new Dictionary<long, long>();
+            long count = 0;
+            foreach(long item in arr)
             {
-                if (tracks.ContainsKey(item))
-                    tracks[item]++;
-                else
-                    tracks.Add(item, 1);
-            }
-            long result = 0;
-            foreach(long item in tracks.Keys)
-            {
-                if ((item%r==0 || item==1) && tracks.ContainsKey(item * r) && tracks.ContainsKey(item * r * r))
-                    result += tracks[item] * tracks[item * r] * tracks[item * r * r];
-            }
+                long key = item / r;
 
-            return result;
+                if(Counts.ContainsKey(key) && item % r == 0)
+                {
+                    count += Counts[key];
+                }
+
+                if(Probables.ContainsKey(key) && item % r==0)
+                {
+                    long CurrentCount = Probables[key];
+                    
+                    if(Counts.ContainsKey(item))
+                    {
+                        Counts[item] += CurrentCount;
+                    }
+                    else
+                    {
+                        Counts.Add(item, CurrentCount);
+                    }
+                }
+
+                if(Probables.ContainsKey(item))
+                {
+                    Probables[item]++;
+                }
+                else
+                {
+                    Probables.Add(item, 1);
+                }
+            }
+            
+
+            return count;
         }
 
         static void Main(string[] args)
