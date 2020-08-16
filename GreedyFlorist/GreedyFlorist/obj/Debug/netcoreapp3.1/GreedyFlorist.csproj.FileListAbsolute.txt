@@ -1,0 +1,11 @@
+D:\FunLab\HackerRankSolutions\GreedyFlorist\GreedyFlorist\bin\Debug\netcoreapp3.1\GreedyFlorist.exe
+D:\FunLab\HackerRankSolutions\GreedyFlorist\GreedyFlorist\bin\Debug\netcoreapp3.1\GreedyFlorist.deps.json
+D:\FunLab\HackerRankSolutions\GreedyFlorist\GreedyFlorist\bin\Debug\netcoreapp3.1\GreedyFlorist.runtimeconfig.json
+D:\FunLab\HackerRankSolutions\GreedyFlorist\GreedyFlorist\bin\Debug\netcoreapp3.1\GreedyFlorist.runtimeconfig.dev.json
+D:\FunLab\HackerRankSolutions\GreedyFlorist\GreedyFlorist\bin\Debug\netcoreapp3.1\GreedyFlorist.dll
+D:\FunLab\HackerRankSolutions\GreedyFlorist\GreedyFlorist\bin\Debug\netcoreapp3.1\GreedyFlorist.pdb
+D:\FunLab\HackerRankSolutions\GreedyFlorist\GreedyFlorist\obj\Debug\netcoreapp3.1\GreedyFlorist.csprojAssemblyReference.cache
+D:\FunLab\HackerRankSolutions\GreedyFlorist\GreedyFlorist\obj\Debug\netcoreapp3.1\GreedyFlorist.AssemblyInfoInputs.cache
+D:\FunLab\HackerRankSolutions\GreedyFlorist\GreedyFlorist\obj\Debug\netcoreapp3.1\GreedyFlorist.AssemblyInfo.cs
+D:\FunLab\HackerRankSolutions\GreedyFlorist\GreedyFlorist\obj\Debug\netcoreapp3.1\GreedyFlorist.dll
+D:\FunLab\HackerRankSolutions\GreedyFlorist\GreedyFlorist\obj\Debug\netcoreapp3.1\GreedyFlorist.pdb
