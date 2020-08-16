@@ -1,0 +1,11 @@
+D:\FunLab\HackerRankSolutions\Maxmin\Maxmin\bin\Debug\netcoreapp3.1\Maxmin.exe
+D:\FunLab\HackerRankSolutions\Maxmin\Maxmin\bin\Debug\netcoreapp3.1\Maxmin.deps.json
+D:\FunLab\HackerRankSolutions\Maxmin\Maxmin\bin\Debug\netcoreapp3.1\Maxmin.runtimeconfig.json
+D:\FunLab\HackerRankSolutions\Maxmin\Maxmin\bin\Debug\netcoreapp3.1\Maxmin.runtimeconfig.dev.json
+D:\FunLab\HackerRankSolutions\Maxmin\Maxmin\bin\Debug\netcoreapp3.1\Maxmin.dll
+D:\FunLab\HackerRankSolutions\Maxmin\Maxmin\bin\Debug\netcoreapp3.1\Maxmin.pdb
+D:\FunLab\HackerRankSolutions\Maxmin\Maxmin\obj\Debug\netcoreapp3.1\Maxmin.csprojAssemblyReference.cache
+D:\FunLab\HackerRankSolutions\Maxmin\Maxmin\obj\Debug\netcoreapp3.1\Maxmin.AssemblyInfoInputs.cache
+D:\FunLab\HackerRankSolutions\Maxmin\Maxmin\obj\Debug\netcoreapp3.1\Maxmin.AssemblyInfo.cs
+D:\FunLab\HackerRankSolutions\Maxmin\Maxmin\obj\Debug\netcoreapp3.1\Maxmin.dll
+D:\FunLab\HackerRankSolutions\Maxmin\Maxmin\obj\Debug\netcoreapp3.1\Maxmin.pdb
